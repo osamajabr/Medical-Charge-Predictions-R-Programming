@@ -34,7 +34,7 @@ The dataset contains 1,338 instances and 7 attributes related to health insuranc
 
 Throughout this project, a comprehensive analysis of health insurance costs was conducted using a rich dataset of 1,338 individuals. Key insights were revealed through exploratory data analysis, highlighting the significant influence of factors such as age, BMI, smoking status, and the number of children on medical charges. Notably, it was found that smoking status is a significant predictor of higher costs, followed by age and BMI.
 
-Predictive modeling was primarily executed through linear regression, which underscored the impact of these variables on medical charges. The performance of the model, indicated by R-squared values and residual plots, suggested a decent fit, although areas for improvement were identified. These improvements could potentially be achieved through more complex models or by incorporating interaction terms and non-linear relationships.
+Predictive modeling was primarily executed through linear regression, which underscored the impact of these variables on medical charges. The performance of the model, indicated by an R-squared value of 0.751, suggested a decent fit, although areas for improvement were identified. These improvements could potentially be achieved through more complex models or by incorporating interaction terms and non-linear relationships.
 
 This project has not only enhanced our understanding of the determinants of health insurance costs but also provided a foundational basis for further research. Future exploratory avenues might include the use of more sophisticated machine learning techniques to improve predictive accuracy and the analysis of additional factors such as geographic differences and lifestyle variables.
 
